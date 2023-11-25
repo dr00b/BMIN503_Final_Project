@@ -3,7 +3,7 @@ This repository contains the final project of my data science class as part of a
 1. Is there an assocation between CMS “Accountable Care” Contracting Models and Skilled Nursing Facility Staffing Ratios?
 2. Can Logistic Regression Surface Gamesmenship By Skilled Nursing Facility Administrators?
 
-The detailed reports reports are available in the root directory as html files.
+The written reports are available in the root directory as html files.
 ```
 ├── report_pt1.html
 ├── report_pt2.html
